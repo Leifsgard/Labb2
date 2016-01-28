@@ -1,0 +1,6 @@
+C:\Users\Rasmus\Documents\GitHub\Labb2\WCFLibaryCrash\WCFLibaryCrash\bin\Debug\WCFLibaryCrash.dll.config
+C:\Users\Rasmus\Documents\GitHub\Labb2\WCFLibaryCrash\WCFLibaryCrash\bin\Debug\WCFLibaryCrash.dll
+C:\Users\Rasmus\Documents\GitHub\Labb2\WCFLibaryCrash\WCFLibaryCrash\bin\Debug\WCFLibaryCrash.pdb
+C:\Users\Rasmus\Documents\GitHub\Labb2\WCFLibaryCrash\WCFLibaryCrash\obj\Debug\WCFLibaryCrash.csprojResolveAssemblyReference.cache
+C:\Users\Rasmus\Documents\GitHub\Labb2\WCFLibaryCrash\WCFLibaryCrash\obj\Debug\WCFLibaryCrash.dll
+C:\Users\Rasmus\Documents\GitHub\Labb2\WCFLibaryCrash\WCFLibaryCrash\obj\Debug\WCFLibaryCrash.pdb

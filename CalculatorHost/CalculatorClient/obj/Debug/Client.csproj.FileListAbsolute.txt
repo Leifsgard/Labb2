@@ -1,0 +1,10 @@
+C:\Users\Rasmus\Documents\GitHub\Labb2\CalculatorHost\CalculatorClient\bin\Debug\Client.exe.config
+C:\Users\Rasmus\Documents\GitHub\Labb2\CalculatorHost\CalculatorClient\bin\Debug\Client.exe
+C:\Users\Rasmus\Documents\GitHub\Labb2\CalculatorHost\CalculatorClient\bin\Debug\Client.pdb
+C:\Users\Rasmus\Documents\GitHub\Labb2\CalculatorHost\CalculatorClient\bin\Debug\CalculatorHost.exe
+C:\Users\Rasmus\Documents\GitHub\Labb2\CalculatorHost\CalculatorClient\bin\Debug\GettingsStartedLib.dll
+C:\Users\Rasmus\Documents\GitHub\Labb2\CalculatorHost\CalculatorClient\bin\Debug\CalculatorHost.pdb
+C:\Users\Rasmus\Documents\GitHub\Labb2\CalculatorHost\CalculatorClient\bin\Debug\GettingsStartedLib.pdb
+C:\Users\Rasmus\Documents\GitHub\Labb2\CalculatorHost\CalculatorClient\obj\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\Rasmus\Documents\GitHub\Labb2\CalculatorHost\CalculatorClient\obj\Debug\Client.exe
+C:\Users\Rasmus\Documents\GitHub\Labb2\CalculatorHost\CalculatorClient\obj\Debug\Client.pdb
