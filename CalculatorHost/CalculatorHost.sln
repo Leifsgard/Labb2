@@ -7,7 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculatorHost", "Calculato
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GettingsStartedLib", "GettingsStartedLib\GettingsStartedLib.csproj", "{015AE7A3-FEEA-47C8-AD78-514C7368307B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculatorClient", "CalculatorClient\CalculatorClient.csproj", "{A903CB04-BE23-4131-BE0F-189D7410BA89}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Client", "CalculatorClient\Client.csproj", "{A903CB04-BE23-4131-BE0F-189D7410BA89}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
