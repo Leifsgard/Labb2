@@ -4,15 +4,14 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{4618B066-22FC-4424-9D52-4DA93DD92E05}</ProjectGuid>
+    <ProjectGuid>{A903CB04-BE23-4131-BE0F-189D7410BA89}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>CalculatorHost</RootNamespace>
-    <AssemblyName>CalculatorHost</AssemblyName>
+    <RootNamespace>CalculatorClient</RootNamespace>
+    <AssemblyName>CalculatorClient</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
-    <TargetFrameworkProfile />
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <PlatformTarget>AnyCPU</PlatformTarget>
@@ -22,7 +21,7 @@
     <OutputPath>bin\Debug\</OutputPath>
     <DefineConstants>DEBUG;TRACE</DefineConstants>
     <ErrorReport>prompt</ErrorReport>
-    <WarningLevel>2</WarningLevel>
+    <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
     <PlatformTarget>AnyCPU</PlatformTarget>
@@ -52,6 +51,13 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\CalculatorHost\CalculatorHost.csproj">
+      <Project>{4618b066-22fc-4424-9d52-4da93dd92e05}</Project>
+      <Name>CalculatorHost</Name>
+    </ProjectReference>
     <ProjectReference Include="..\GettingsStartedLib\GettingsStartedLib.csproj">
       <Project>{015ae7a3-feea-47c8-ad78-514c7368307b}</Project>
       <Name>GettingsStartedLib</Name>

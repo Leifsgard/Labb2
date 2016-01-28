@@ -1,0 +1,6 @@
+C:\Users\Rasmus\Documents\GitHub\Labb2\CalculatorHost\GettingsStartedLib\bin\Debug\GettingsStartedLib.dll.config
+C:\Users\Rasmus\Documents\GitHub\Labb2\CalculatorHost\GettingsStartedLib\bin\Debug\GettingsStartedLib.dll
+C:\Users\Rasmus\Documents\GitHub\Labb2\CalculatorHost\GettingsStartedLib\bin\Debug\GettingsStartedLib.pdb
+C:\Users\Rasmus\Documents\GitHub\Labb2\CalculatorHost\GettingsStartedLib\obj\Debug\GettingsStartedLib.dll
+C:\Users\Rasmus\Documents\GitHub\Labb2\CalculatorHost\GettingsStartedLib\obj\Debug\GettingsStartedLib.pdb
+C:\Users\Rasmus\Documents\GitHub\Labb2\CalculatorHost\GettingsStartedLib\obj\Debug\GettingsStartedLib.csprojResolveAssemblyReference.cache

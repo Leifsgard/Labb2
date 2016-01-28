@@ -1,0 +1,1 @@
+C:\Users\Rasmus\Documents\GitHub\Labb2\CalculatorHost\GettingStartedLib\bin\Debug\GettingStartedLib.exe.config
