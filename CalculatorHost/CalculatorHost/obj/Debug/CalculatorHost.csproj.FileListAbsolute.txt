@@ -1,0 +1,2 @@
+C:\Users\Rasmus\Documents\GitHub\Labb2\CalculatorHost\CalculatorHost\bin\Debug\CalculatorHost.exe.config
+C:\Users\Rasmus\Documents\GitHub\Labb2\CalculatorHost\CalculatorHost\obj\Debug\CalculatorHost.csprojResolveAssemblyReference.cache
