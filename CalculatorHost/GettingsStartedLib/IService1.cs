@@ -8,7 +8,7 @@ using System.Text;
 
 namespace GettingStartedLib
 {
-    [ServiceContract(Namespace = "http://Microsoft.ServiceModel.Samples")]
+    [ServiceContract]
     public interface ICalculator
     {
         [OperationContract]
